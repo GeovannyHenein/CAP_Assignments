@@ -1,0 +1,17 @@
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.deps.json
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.runtimeconfig.json
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.dll
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.pdb
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfo.cs
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.dll
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/Debug/net8.0/refint/HelloWorldApp.dll
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.pdb
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.genruntimeconfig.cache
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/Debug/net8.0/ref/HelloWorldApp.dll
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.csproj.AssemblyReference.cache
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/bin/Debug/net8.0/NameGenerator.dll
+/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/Debug/net8.0/HelloWor.7B0E6E17.Up2Date

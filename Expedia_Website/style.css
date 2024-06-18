@@ -1,0 +1,130 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p, ul, li, header, section, footer {
+    margin: center;
+    padding: auto;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Body and main layout */
+body {
+    display: flex;
+    justify-content: center;
+    background-color: cyan;
+    color: #074370;
+}
+
+.container {
+    width: 80%;
+    max-width: fit-content;
+    background-color: rgb(102, 255, 0);
+    padding: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin: center ;
+}
+
+header {
+    width: 100%;
+    background-color: #004080;
+    color: white;
+    padding: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo {
+    display: inline-flex;
+    margin-left: center;
+    text-decoration: underline;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    margin-right: center;
+}
+
+header nav ul li {
+    margin-left: center;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.search-bar {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.search-bar input, .search-bar button {
+    padding: 10px;
+    font-size: 1em;
+}
+
+.search-bar button {
+    background-color: #004080;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.search-bar button:hover {
+    background-color: #003060;
+}
+
+.featured {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.featured h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    border-bottom: 2px solid #333;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.destinations {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.destination {
+    text-align: center;
+    flex: 1;
+    max-width: 200px;
+}
+
+.destination img {
+    border: #0080ff;
+    border-style: double;
+    border-width: 10px;
+    border-radius: 10%;
+    width: 100%;
+    height: 50%;
+}
+
+.destination h3 {
+    margin-top: 10px;
+}
+
+footer {
+    width: 100%;
+    background-color: #004080;
+    color: white;
+    text-align: center;
+    padding: center;
+}
