@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorldApp", "HelloWorldApp\HelloWorldApp.csproj", "{47292C45-4CA6-4BF5-AD17-7EED128967A6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "URLShortner", "URLShortner", "{8C96F940-96DA-4BFF-9F96-A8566E50BAC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "urlShortner", "URLShortner\urlShortner\urlShortner.csproj", "{A8C8CAA8-BD81-462F-9734-F1F44FE996F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,11 +19,18 @@ Global
 		{47292C45-4CA6-4BF5-AD17-7EED128967A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47292C45-4CA6-4BF5-AD17-7EED128967A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47292C45-4CA6-4BF5-AD17-7EED128967A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C8CAA8-BD81-462F-9734-F1F44FE996F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C8CAA8-BD81-462F-9734-F1F44FE996F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C8CAA8-BD81-462F-9734-F1F44FE996F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C8CAA8-BD81-462F-9734-F1F44FE996F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7137CA85-5CD6-4207-86E6-95BEC12F55E1}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A8C8CAA8-BD81-462F-9734-F1F44FE996F0} = {8C96F940-96DA-4BFF-9F96-A8566E50BAC0}
 	EndGlobalSection
 EndGlobal

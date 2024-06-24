@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/geovannyhenein/Desktop/CAP/CAP/HelloWorldApp/HelloWorldApp.csproj": {}
+    "/Users/geovannyhenein/Desktop/CAP/CAP/URLShortner/urlShortner/urlShortner.csproj": {}
   },
   "projects": {
-    "/Users/geovannyhenein/Desktop/CAP/CAP/HelloWorldApp/HelloWorldApp.csproj": {
+    "/Users/geovannyhenein/Desktop/CAP/CAP/URLShortner/urlShortner/urlShortner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/geovannyhenein/Desktop/CAP/CAP/HelloWorldApp/HelloWorldApp.csproj",
-        "projectName": "HelloWorldApp",
-        "projectPath": "/Users/geovannyhenein/Desktop/CAP/CAP/HelloWorldApp/HelloWorldApp.csproj",
+        "projectUniqueName": "/Users/geovannyhenein/Desktop/CAP/CAP/URLShortner/urlShortner/urlShortner.csproj",
+        "projectName": "urlShortner",
+        "projectPath": "/Users/geovannyhenein/Desktop/CAP/CAP/URLShortner/urlShortner/urlShortner.csproj",
         "packagesPath": "/Users/geovannyhenein/.nuget/packages/",
-        "outputPath": "/Users/geovannyhenein/Desktop/CAP/CAP/HelloWorldApp/obj/",
+        "outputPath": "/Users/geovannyhenein/Desktop/CAP/CAP/URLShortner/urlShortner/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -45,12 +45,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "NameGenerator": {
-              "target": "Package",
-              "version": "[2.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -63,6 +57,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

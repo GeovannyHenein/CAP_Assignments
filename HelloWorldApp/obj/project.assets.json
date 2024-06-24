@@ -83,11 +83,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/HelloWorldApp.csproj",
+      "projectUniqueName": "/Users/geovannyhenein/Desktop/CAP/CAP/HelloWorldApp/HelloWorldApp.csproj",
       "projectName": "HelloWorldApp",
-      "projectPath": "/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/HelloWorldApp.csproj",
+      "projectPath": "/Users/geovannyhenein/Desktop/CAP/CAP/HelloWorldApp/HelloWorldApp.csproj",
       "packagesPath": "/Users/geovannyhenein/.nuget/packages/",
-      "outputPath": "/Users/geovannyhenein/Desktop/CAP/HelloWorldApp/obj/",
+      "outputPath": "/Users/geovannyhenein/Desktop/CAP/CAP/HelloWorldApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
