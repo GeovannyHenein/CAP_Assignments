@@ -1,6 +1,46 @@
-@urlShortner_HostAddress = http://localhost:5064
+#@host = https://geoapp2.azurewebsites.net/
+@host = http://localhost:5064
 
-GET {{urlShortner_HostAddress}}/weatherforecast/
+#@host = https://cap-url-shortner.azurewebsites.net/
+
+# API: Get short url
+GET {{host}}/shortUrls/urlId3
+Accept: application/json
+//Authorization: Basic david.lee@example.com:securepass
+
+###
+
+# API: list all urls
+GET {{host}}/shortUrls
+Accept: application/json
+//Authorization: Basic david.lee@example.com:securepass
+
+###
+
+# API: Create or update short url
+PUT {{host}}/shortUrls/urlId3
+Accept: application/json
+Content-Type: application/json
+//Authorization: Basic david.lee@example.com:securepass
+
+{
+    "url": "http://www.msn.com"
+}
+
+###
+
+# API: delete short url
+DELETE {{host}}/shortUrls/urlId3
+Accept: application/json
+//Authorization: Basic david.lee@example.com:securepass
+
+###
+
+# API: Get number of hits
+GET {{host}}/shortUrls/urlId1/hits
 Accept: application/json
 
 ###
+# API: navigate to shortUrl
+GET {{host}}/navigate/ge123
+Accept: application/json
