@@ -1,0 +1,15 @@
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/bin/Debug/net8.0/Debugging
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/bin/Debug/net8.0/Debugging.deps.json
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/bin/Debug/net8.0/Debugging.runtimeconfig.json
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/bin/Debug/net8.0/Debugging.dll
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/bin/Debug/net8.0/Debugging.pdb
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/obj/Debug/net8.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/obj/Debug/net8.0/Debugging.AssemblyInfoInputs.cache
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/obj/Debug/net8.0/Debugging.AssemblyInfo.cs
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/obj/Debug/net8.0/Debugging.csproj.CoreCompileInputs.cache
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/obj/Debug/net8.0/Debugging.sourcelink.json
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/obj/Debug/net8.0/Debugging.dll
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/obj/Debug/net8.0/refint/Debugging.dll
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/obj/Debug/net8.0/Debugging.pdb
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/obj/Debug/net8.0/Debugging.genruntimeconfig.cache
+/Users/geovannyhenein/Desktop/CAP/CAP/Debugging/Debugging/obj/Debug/net8.0/ref/Debugging.dll
