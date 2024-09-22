@@ -1,0 +1,15 @@
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/bin/Debug/net8.0/OoJSON_Marco
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/bin/Debug/net8.0/OoJSON_Marco.deps.json
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/bin/Debug/net8.0/OoJSON_Marco.runtimeconfig.json
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/bin/Debug/net8.0/OoJSON_Marco.dll
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/bin/Debug/net8.0/OoJSON_Marco.pdb
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/obj/Debug/net8.0/OoJSON_Marco.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/obj/Debug/net8.0/OoJSON_Marco.AssemblyInfoInputs.cache
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/obj/Debug/net8.0/OoJSON_Marco.AssemblyInfo.cs
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/obj/Debug/net8.0/OoJSON_Marco.csproj.CoreCompileInputs.cache
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/obj/Debug/net8.0/OoJSON_Marco.sourcelink.json
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/obj/Debug/net8.0/OoJSON_Marco.dll
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/obj/Debug/net8.0/refint/OoJSON_Marco.dll
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/obj/Debug/net8.0/OoJSON_Marco.pdb
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/obj/Debug/net8.0/OoJSON_Marco.genruntimeconfig.cache
+/Users/geovannyhenein/Desktop/CAP/CAP/OoJSON_Marco/obj/Debug/net8.0/ref/OoJSON_Marco.dll
